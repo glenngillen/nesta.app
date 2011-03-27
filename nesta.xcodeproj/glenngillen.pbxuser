@@ -1,0 +1,519 @@
+// !$*UTF8*$!
+{
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C87E59AD133E976800994788 /* nesta */;
+		activeTarget = 8D1107260486CEB800E47090 /* nesta */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* nesta */,
+		);
+		codeSenseManager = C87E59C2133E976C00994788 /* Code sense */;
+		executables = (
+			C87E59AD133E976800994788 /* nesta */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					817,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322870003;
+			PBXWorkspaceStateSaveDate = 322870003;
+		};
+		perUserProjectItems = {
+			C8BADA75133E9F890073C572 /* PBXTextBookmark */ = C8BADA75133E9F890073C572 /* PBXTextBookmark */;
+			C8BADA76133E9F890073C572 /* PBXTextBookmark */ = C8BADA76133E9F890073C572 /* PBXTextBookmark */;
+			C8BADA79133E9FA00073C572 /* PBXTextBookmark */ = C8BADA79133E9FA00073C572 /* PBXTextBookmark */;
+			C8BADA7D133EA0120073C572 /* PBXTextBookmark */ = C8BADA7D133EA0120073C572 /* PBXTextBookmark */;
+			C8BADA7F133EA0280073C572 /* PBXTextBookmark */ = C8BADA7F133EA0280073C572 /* PBXTextBookmark */;
+			C8BADA8C133EA5390073C572 /* PBXTextBookmark */ = C8BADA8C133EA5390073C572 /* PBXTextBookmark */;
+			C8BAE284133EA5780073C572 /* PBXTextBookmark */ = C8BAE284133EA5780073C572 /* PBXTextBookmark */;
+			C8BAE28A133EA67B0073C572 /* PBXTextBookmark */ = C8BAE28A133EA67B0073C572 /* PBXTextBookmark */;
+			C8BAE28B133EA67B0073C572 /* XCBuildMessageTextBookmark */ = C8BAE28B133EA67B0073C572 /* XCBuildMessageTextBookmark */;
+			C8BAE28C133EA67B0073C572 /* PBXTextBookmark */ = C8BAE28C133EA67B0073C572 /* PBXTextBookmark */;
+			C8BAE290133EA72B0073C572 /* PBXTextBookmark */ = C8BAE290133EA72B0073C572 /* PBXTextBookmark */;
+			C8BAE291133EA7380073C572 /* PBXTextBookmark */ = C8BAE291133EA7380073C572 /* PBXTextBookmark */;
+			C8BAE295133EA82D0073C572 /* PBXTextBookmark */ = C8BAE295133EA82D0073C572 /* PBXTextBookmark */;
+			C8BAE296133EA8330073C572 /* PBXTextBookmark */ = C8BAE296133EA8330073C572 /* PBXTextBookmark */;
+			C8BAE297133EA8490073C572 /* PBXTextBookmark */ = C8BAE297133EA8490073C572 /* PBXTextBookmark */;
+			C8BAE29B133EA8740073C572 /* PBXTextBookmark */ = C8BAE29B133EA8740073C572 /* PBXTextBookmark */;
+			C8BAE29C133EA8760073C572 /* PBXTextBookmark */ = C8BAE29C133EA8760073C572 /* PBXTextBookmark */;
+			C8BAE29D133EA8810073C572 /* PBXTextBookmark */ = C8BAE29D133EA8810073C572 /* PBXTextBookmark */;
+			C8BAE29F133EA8930073C572 /* PBXTextBookmark */ = C8BAE29F133EA8930073C572 /* PBXTextBookmark */;
+			C8BAE775133EA8C60073C572 /* PBXTextBookmark */ = C8BAE775133EA8C60073C572 /* PBXTextBookmark */;
+			C8BAE778133EA9BD0073C572 /* PBXTextBookmark */ = C8BAE778133EA9BD0073C572 /* PBXTextBookmark */;
+			C8BAE780133EAB3E0073C572 /* PBXTextBookmark */ = C8BAE780133EAB3E0073C572 /* PBXTextBookmark */;
+			C8BAE783133EAB490073C572 /* PBXTextBookmark */ = C8BAE783133EAB490073C572 /* PBXTextBookmark */;
+			C8BAE784133EAB620073C572 /* PBXTextBookmark */ = C8BAE784133EAB620073C572 /* PBXTextBookmark */;
+			C8BAE7E3133EB4590073C572 /* PBXTextBookmark */ = C8BAE7E3133EB4590073C572 /* PBXTextBookmark */;
+			C8BAE7E4133EB4590073C572 /* PBXTextBookmark */ = C8BAE7E4133EB4590073C572 /* PBXTextBookmark */;
+			C8BAE7E5133EB4590073C572 /* PBXTextBookmark */ = C8BAE7E5133EB4590073C572 /* PBXTextBookmark */;
+			C8BAE7E9133EB4820073C572 /* PBXTextBookmark */ = C8BAE7E9133EB4820073C572 /* PBXTextBookmark */;
+			C8BAE7EA133EB4820073C572 /* PBXTextBookmark */ = C8BAE7EA133EB4820073C572 /* PBXTextBookmark */;
+			C8BAE7EB133EB4820073C572 /* PBXTextBookmark */ = C8BAE7EB133EB4820073C572 /* PBXTextBookmark */;
+			C8BAE7ED133EB48E0073C572 /* PBXTextBookmark */ = C8BAE7ED133EB48E0073C572 /* PBXTextBookmark */;
+			C8BAE7EE133EB4980073C572 /* PBXTextBookmark */ = C8BAE7EE133EB4980073C572 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C87E59C1133E976C00994788 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1291, 240}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 247}";
+		};
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	8D1107260486CEB800E47090 /* nesta */ = {
+		activeExec = 0;
+		executables = (
+			C87E59AD133E976800994788 /* nesta */,
+		);
+	};
+	C87E59AD133E976800994788 /* nesta */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = nesta;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eflags = 1;
+			$es = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$r10 = 1;
+			$r11 = 1;
+			$r12 = 1;
+			$r13 = 1;
+			$r14 = 1;
+			$r15 = 1;
+			$r8 = 1;
+			$r9 = 1;
+			$rax = 1;
+			$rbp = 1;
+			$rbx = 1;
+			$rcx = 1;
+			$rdi = 1;
+			$rdx = 1;
+			$rip = 1;
+			$rsi = 1;
+			$rsp = 1;
+			$ss = 1;
+		};
+	};
+	C87E59C1133E976C00994788 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C87E59C2133E976C00994788 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C8BADA6D133E9D830073C572 /* NestaWindowController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 394}}";
+			sepNavSelRange = "{304, 0}";
+			sepNavVisRange = "{0, 361}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	C8BADA75133E9F890073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 164;
+		vrLoc = 0;
+	};
+	C8BADA76133E9F890073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 35;
+	};
+	C8BADA79133E9FA00073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 35;
+	};
+	C8BADA7D133EA0120073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 35;
+	};
+	C8BADA7F133EA0280073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 305;
+		rType = 0;
+		vrLen = 198;
+		vrLoc = 36;
+	};
+	C8BADA8C133EA5390073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 78;
+	};
+	C8BADDCA133EA56D0073C572 /* redcloth_attributes.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = redcloth_attributes.c;
+		path = "/Users/glenngillen/Development/cocoa/nesta/vendor/ruby/1.8/gems/RedCloth-4.2.7/ext/redcloth_scan/redcloth_attributes.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 10528}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 510}";
+		};
+	};
+	C8BAE284133EA5780073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 37;
+	};
+	C8BAE28A133EA67B0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 35;
+	};
+	C8BAE28B133EA67B0073C572 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Compile /Users/glenngillen/Development/cocoa/nesta/vendor/ruby/1.8/gems/RedCloth-4.2.7/ext/redcloth_scan/redcloth_attributes.c";
+		fRef = C8BADDCA133EA56D0073C572 /* redcloth_attributes.c */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	C8BAE28C133EA67B0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADDCA133EA56D0073C572 /* redcloth_attributes.c */;
+		name = "redcloth_attributes.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	C8BAE290133EA72B0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE291133EA7380073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE295133EA82D0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 78;
+	};
+	C8BAE296133EA8330073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE297133EA8490073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE29B133EA8740073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 78;
+	};
+	C8BAE29C133EA8760073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE29D133EA8810073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE29F133EA8930073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 78;
+	};
+	C8BAE775133EA8C60073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE778133EA9BD0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE780133EAB3E0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 78;
+	};
+	C8BAE783133EAB490073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE784133EAB620073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE7E3133EB4590073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 78;
+	};
+	C8BAE7E4133EB4590073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 121;
+		vrLoc = 126;
+	};
+	C8BAE7E5133EB4590073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	C8BAE7E9133EB4820073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	C8BAE7EA133EB4820073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 12";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE7EB133EB4820073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE7ED133EB48E0073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAE7EE133EB4980073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+}
