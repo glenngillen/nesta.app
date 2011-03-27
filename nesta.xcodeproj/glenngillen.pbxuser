@@ -81,6 +81,11 @@
 			C8BAEC01133F4D1A0073C572 /* PBXTextBookmark */ = C8BAEC01133F4D1A0073C572 /* PBXTextBookmark */;
 			C8BAEC02133F4D240073C572 /* PBXTextBookmark */ = C8BAEC02133F4D240073C572 /* PBXTextBookmark */;
 			C8BAEC05133F4DA50073C572 /* PBXTextBookmark */ = C8BAEC05133F4DA50073C572 /* PBXTextBookmark */;
+			C8BAEC06133FD1320073C572 /* PBXTextBookmark */ = C8BAEC06133FD1320073C572 /* PBXTextBookmark */;
+			C8BAEC07133FD1350073C572 /* PBXBookmark */ = C8BAEC07133FD1350073C572 /* PBXBookmark */;
+			C8BAEC08133FD1380073C572 /* PBXTextBookmark */ = C8BAEC08133FD1380073C572 /* PBXTextBookmark */;
+			C8BAEC09133FD1380073C572 /* PBXTextBookmark */ = C8BAEC09133FD1380073C572 /* PBXTextBookmark */;
+			C8BAEC0C133FD1380073C572 /* PBXTextBookmark */ = C8BAEC0C133FD1380073C572 /* PBXTextBookmark */;
 		};
 		sourceControlManager = C87E59C1133E976C00994788 /* Source Control */;
 		userBuildSettings = {
@@ -186,7 +191,7 @@
 	};
 	C8BADA6D133E9D830073C572 /* NestaWindowController.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {995, 394}}";
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
 			sepNavSelRange = "{304, 0}";
 			sepNavVisRange = "{0, 361}";
 			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
@@ -595,6 +600,50 @@
 		vrLoc = 0;
 	};
 	C8BAEC05133F4DA50073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAEC06133FD1320073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAEC07133FD1350073C572 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+	};
+	C8BAEC08133FD1380073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAEC09133FD1380073C572 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
+		name = "NestaWindowController.rb: 11";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	C8BAEC0C133FD1380073C572 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = C8BADA6D133E9D830073C572 /* NestaWindowController.rb */;
 		name = "NestaWindowController.rb: 11";

@@ -35,7 +35,7 @@ require 'rack/response'
 
 server = Rack::Handler.default
 options = {:Port => 9393, :Host => '127.0.0.1', :AccessLog => [], :Path => '/'}
-config = "/Users/glenngillen/Development/ruby/idontlunchat.heroku.com/config.ru"
+config = "#{File.dirname(__FILE__)}/demo-site/config.ru"
 
 app = Rack::Builder.new do
 end
@@ -54,12 +54,10 @@ end
 # end
 
 base_url = "http://#{options[:Host]}:#{options[:Port]}#{options[:Path]}"
-puts "== Shotgun/#{server.to_s.sub(/Rack::Handler::/, '')} on #{base_url}"
 th1 = Thread.new do
   server.run app, options do |inst|
   end
 end
-puts "adadadada.!!!!!!"
 
 # Starting the Cocoa main loop.
 NSApplicationMain(0, nil)
