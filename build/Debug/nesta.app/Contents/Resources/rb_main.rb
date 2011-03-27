@@ -13,6 +13,9 @@ framework 'Cocoa'
 Dir["#{File.dirname(__FILE__)}/vendor/ruby/1.9.1/gems/*"].each do |dir|
   $:.unshift "#{dir}/lib"
 end
+Dir["#{File.dirname(__FILE__)}/vendor/ruby/1.9.1/bundler/gems/*"].each do |dir|
+  $:.unshift "#{dir}/lib"
+end
 
 require 'nesta/app'
 
