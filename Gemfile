@@ -1,3 +1,2 @@
 source :rubygems
-gem "nesta"
-gem "shotgun"
+gem "nesta", :git => "git://github.com/rubypond/nesta.git", :branch => "macruby"

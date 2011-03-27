@@ -1,7 +1,7 @@
 Tnesta
 v7
 r0
-t322876974.023813
+t322915351.768076
 cCheck dependencies
 cProcessInfoPlistFile /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Info.plist Info.plist
 cCopyStringsFile /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -54,7 +54,7 @@ t1301183729
 s361
 
 N/Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app
-t1301184174
+t1301222551
 s102
 
 N/Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Info.plist
@@ -3282,7 +3282,7 @@ t1301179892
 s1236
 
 N/Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Resources/vendor
-t1301184173
+t1301222550
 s102
 
 N/Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Resources/version.rb
@@ -3410,8 +3410,8 @@ t1301184159
 s1551
 
 N/Users/glenngillen/Development/cocoa/nesta/vendor
-c000000004D8E69FA0000000000000066
-t1301178874
+c000000004D8F14160000000000000066
+t1301222422
 s102
 
 N/Users/glenngillen/Development/cocoa/nesta/vendor/ruby/1.8/bin/css2sass
@@ -8113,7 +8113,7 @@ s834
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies322876972#322876972#0(0"0(0#1#0"8625643744#0"0#
+lSLF07#2@18"Check dependencies322915350#322915350#0(0"0(0#1#0"8624229568#0"0#
 
 CCompileC build/nesta.build/Debug/nesta.build/Objects-normal/x86_64/main.o /Users/glenngillen/Development/cocoa/nesta/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s322869527.813998
@@ -16445,13 +16445,13 @@ xvendor/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/variable_node.rb
 lSLF07#2@68"Copy vendor/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/variable_node.rb322872691#322872692#0(0"0(0#0#106"/Users/glenngillen/Development/cocoa/nesta/vendor/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/variable_node.rb8614940256#389"    cd /Users/glenngillen/Development/cocoa/nesta    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/glenngillen/Development/cocoa/nesta/vendor/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/variable_node.rb /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Resources0#
 
 CCpResource build/Debug/nesta.app/Contents/Resources/vendor vendor
-s322876972.840781
-e322876974.020919
+s322915350.564502
+e322915351.697897
 r1
 xCpResource
 xbuild/Debug/nesta.app/Contents/Resources/vendor
 xvendor
-lSLF07#2@11"Copy vendor322876972#322876974#0(0"0(0#0#49"/Users/glenngillen/Development/cocoa/nesta/vendor8630884928#332"    cd /Users/glenngillen/Development/cocoa/nesta    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/glenngillen/Development/cocoa/nesta/vendor /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Resources0#
+lSLF07#2@11"Copy vendor322915350#322915351#0(0"0(0#0#49"/Users/glenngillen/Development/cocoa/nesta/vendor8632380544#332"    cd /Users/glenngillen/Development/cocoa/nesta    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/glenngillen/Development/cocoa/nesta/vendor /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Resources0#
 
 CCpResource build/Debug/nesta.app/Contents/Resources/version.rb vendor/ruby/1.8/gems/RedCloth-4.2.7/lib/redcloth/version.rb
 s322873459.934534
@@ -16716,10 +16716,10 @@ xInfo.plist
 lSLF07#2@18"Process Info.plist322869525#322869525#0(0"0(0#0#53"/Users/glenngillen/Development/cocoa/nesta/Info.plist13229766294700130#310"    cd /Users/glenngillen/Development/cocoa/nesta    builtin-infoPlistUtility Info.plist -genpkginfo /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app/Contents/Info.plist0#
 
 CTouch /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app
-s322876974.021255
-e322876974.023776
+s322915351.698145
+e322915351.768024
 r1
 xTouch
 x/Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app
-lSLF07#2@70"Touch /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app322876974#322876974#0(0"0(0#0#0"8625166048#137"    cd /Users/glenngillen/Development/cocoa/nesta    /usr/bin/touch -c /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app0#
+lSLF07#2@70"Touch /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app322915351#322915351#0(0"0(0#0#0"8618743520#137"    cd /Users/glenngillen/Development/cocoa/nesta    /usr/bin/touch -c /Users/glenngillen/Development/cocoa/nesta/build/Debug/nesta.app0#
 
